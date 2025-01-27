@@ -1,0 +1,2 @@
+# BBO
+Batch Bayesian Optimization
