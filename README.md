@@ -4,6 +4,13 @@ Y. Tanabe, H. Sugisawa, T. Miyazawa, K. Hotta, K. Shiratori, T. Fujitanib,
 "High-Throughput Optimization of a High-Pressure Cata-lytic Reaction,"
 Journal of ... (2025)
 
+## Library
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+
 ## 1. Initial Guess Generation
 Using the first_10.dat file, 24 points for the initial experiment are generated. 
 To ensure spatial diversity of the experimental points, the D-optimality criterion is applied.
