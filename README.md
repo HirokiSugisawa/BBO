@@ -1,5 +1,5 @@
 # BBO (Batch Bayesian Optimization)
-This is a program related to batch Bayesian optimization, as presented in the following paper.
+This is a program related to the generation of initial 24 points, batch Bayesian optimization, and the surrogate model construction, as presented in the following paper.
 Y. Tanabe, H. Sugisawa, T. Miyazawa, K. Hotta, K. Shiratori, T. Fujitanib, 
 "High-Throughput Optimization of a High-Pressure Cata-lytic Reaction,"
 Journal of ... (2025)
@@ -8,7 +8,7 @@ Journal of ... (2025)
 pandas, numpy, scipy, matplotlib, scikit-learn, jupyterlab
 
 ## Contents
-To reproduce the results, the source code and dataset are stored in the scr folder. Descriptions of each program are given below.
+To reproduce the results, the source code and dataset are stored in the scr folder. Descriptions of each program are given below. Basically, you can reproduce the paper by executing the programs in numerical order.
 
 ### 1. Initial Guess Generation
 Using the first_10.dat file, 24 points for the initial experiment are generated. 
